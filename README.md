@@ -10,9 +10,7 @@ class Xylem
 		int num, extreme_sum = 0, mean_sum = 0, n;   
 		Scanner sc= new Scanner (System.in);  
 		System.out.print("Enter a number: ");  
-		
 		num = sc.nextInt();  
-
 		num = Math.abs(num);   
 		n = num;    
 		while(n != 0)  
