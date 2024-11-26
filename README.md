@@ -1,37 +1,44 @@
-# gourishankarmohapatra.github.io
+Gouri Shankar Mohapatra
+SAP ABAP Technical Consultant
 
-import java.util.*;
-import java.io.*;
+📞 +91 6370773029 | 📧 gsmohapatra2000@gmail.com
 
-class Xylem 
-{
-	public static void main(String[] args) 
-	{
-		int num, extreme_sum = 0, mean_sum = 0, n;   
-		Scanner sc= new Scanner (System.in);  
-		System.out.print("Enter a number: ");  
-		num = sc.nextInt();  
-		num = Math.abs(num);   
-		n = num;    
-		while(n != 0)  
-		{    
-		if(n == num || n < 10)  
-//finds the last digit and add it to the variable extreme_sum  
-		extreme_sum = extreme_sum + n % 10;  
-		else  
-//finds the mean digits and add it to the variable mean_sum  
-		mean_sum = mean_sum + n % 10;  
-//removes the last digit from the number  
-		n = n / 10;  
-		}  
-		System.out.println("The sum of extreme digits: " + extreme_sum );  
-		System.out.println("The sum of mean digits: " + mean_sum);  
-//comparing the sum of extreme digits and with the sum of mean digits  
-		if(extreme_sum  == mean_sum)  
-//prints if sums are equal  
-		System.out.println(num + " is a xylem number.");  
-		else  
-//prints if sums are not equal  
-		System.out.println(num + " is a phloem number.");  
-	}  
-}  
+About Me
+Experience
+Skills
+Education
+Contact
+About Me
+I am an experienced SAP ABAP Technical Consultant with over 2.6 years in SAP development, specializing in RICEF objects, enhancements, debugging, and performance optimization.
+
+Work Experience
+Application Developer (ABAP) at ENSS Technologies
+Duration: September 2022 - Present
+
+Client: British America Tobacco
+
+Automation of maintenance window tasks.
+Developed interactive ALV reports and optimized performance.
+Handled high-priority production issues.
+Client: Micron Technology
+Duration: September 2022 - December 2023
+
+Developed reports for mass deactivation using BDC.
+Worked on IDOC and Smart Forms extensively.
+Skills
+SAP ABAP (BDC, BAPI, RICEF, Enhancements)
+ALV Reporting and Dialog Programming
+HANA (AMDP, CDS Views)
+Fiori OData Services
+SD and MM Functional Knowledge
+Education
+Bachelor of Technology in Electrical Engineering
+
+Biju Patnaik University of Technology, Rourkela (2018-2022) - 8.0 CGPA
+
+Contact
+Address: Infront Of Utkalika, Nuasahi, Bidanasi, Cuttack, Odisha, PIN-753014
+
+Languages: English, Hindi, Odia
+
+© 2024 Gouri Shankar Mohapatra. All Rights Reserved.
