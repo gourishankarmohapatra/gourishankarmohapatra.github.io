@@ -3,11 +3,7 @@ SAP ABAP Technical Consultant
 
 📞 +91 6370773029 | 📧 gsmohapatra2000@gmail.com
 
-About Me
-Experience
-Skills
-Education
-Contact
+
 About Me
 I am an experienced SAP ABAP Technical Consultant with over 2.6 years in SAP development, specializing in RICEF objects, enhancements, debugging, and performance optimization.
 
